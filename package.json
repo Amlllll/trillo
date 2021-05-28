@@ -1,0 +1,22 @@
+{
+    "name": "trillo",
+    "version": "1.0.0",
+    "description": "Trillo project",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss css/style.css"
+    },
+    "author": "Amal Elsaeed",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Amlllll/trillo.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Amlllll/trillo/issues"
+    },
+    "homepage": "https://github.com/Amlllll/trillo#readme",
+    "dependencies": {
+        "node-sass": "^6.0.0"
+    }
+}
